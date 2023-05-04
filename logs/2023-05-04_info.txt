@@ -1,0 +1,38 @@
+[INFO]2023.05.04 10:13:46 : 接口请求参数>>>>>>>>>>{"storeId": 123, "toCurrency": "SGD", "paymentChannel": "stripe"}
+[INFO]2023.05.04 10:13:47 : 接口返回参数>>>>>>>>>>{'code': 'ERR_BAD_REQUEST', 'msg': 'Request failed with status code 400', 'data': {}}
+[INFO]2023.05.04 10:13:47 : 接口请求参数>>>>>>>>>>{"storeId": [], "toCurrency": "SGD", "paymentChannel": "stripe"}
+[INFO]2023.05.04 10:13:48 : 接口返回参数>>>>>>>>>>{'code': 'ERR_BAD_REQUEST', 'msg': 'Request failed with status code 400', 'data': {}}
+[INFO]2023.05.04 10:13:48 : 接口请求参数>>>>>>>>>>{"toCurrency": "SGD", "paymentChannel": "stripe"}
+[INFO]2023.05.04 10:13:49 : 接口返回参数>>>>>>>>>>{'code': 'ERR_BAD_REQUEST', 'msg': 'Request failed with status code 400', 'data': {}}
+[INFO]2023.05.04 10:13:49 : 接口请求参数>>>>>>>>>>{"toCurrency": "SGD"}
+[INFO]2023.05.04 10:13:51 : 接口返回参数>>>>>>>>>>{'code': 'ERR_BAD_REQUEST', 'msg': 'Request failed with status code 400', 'data': {}}
+[INFO]2023.05.04 10:13:51 : 接口请求参数>>>>>>>>>>{"toCurrency": "SGD", "paymentChannel": []}
+[INFO]2023.05.04 10:13:52 : 接口返回参数>>>>>>>>>>{'code': 'ERR_BAD_REQUEST', 'msg': 'Request failed with status code 400', 'data': {}}
+[INFO]2023.05.04 10:13:52 : 接口请求参数>>>>>>>>>>{"toCurrency": "SGD", "paymentChannel": 123}
+[INFO]2023.05.04 10:13:53 : 接口返回参数>>>>>>>>>>{'code': 'ERR_BAD_REQUEST', 'msg': 'Request failed with status code 400', 'data': {}}
+[INFO]2023.05.04 10:13:53 : 接口请求参数>>>>>>>>>>{"toCurrency": "SGD", "paymentChannel": "stripe"}
+[INFO]2023.05.04 10:13:53 : 接口返回参数>>>>>>>>>>{'code': 'ERR_BAD_REQUEST', 'msg': 'Request failed with status code 400', 'data': {}}
+[INFO]2023.05.04 10:13:53 : 接口请求参数>>>>>>>>>>{"paymentChannel": "stripe"}
+[INFO]2023.05.04 10:13:54 : 接口返回参数>>>>>>>>>>{'code': 'ERR_BAD_REQUEST', 'msg': 'Request failed with status code 400', 'data': {}}
+[INFO]2023.05.04 10:13:54 : 接口请求参数>>>>>>>>>>{"paymentChannel": "stripe", "toCurrency": 123}
+[INFO]2023.05.04 10:13:55 : 接口返回参数>>>>>>>>>>{'code': 'ERR_BAD_REQUEST', 'msg': 'Request failed with status code 400', 'data': {}}
+[INFO]2023.05.04 10:13:55 : 接口请求参数>>>>>>>>>>{"paymentChannel": "stripe", "toCurrency": []}
+[INFO]2023.05.04 10:13:56 : 接口返回参数>>>>>>>>>>{'code': 'ERR_BAD_REQUEST', 'msg': 'Request failed with status code 400', 'data': {}}
+[INFO]2023.05.04 10:15:36 : 接口请求参数>>>>>>>>>>{"storeId": 123, "toCurrency": "SGD", "paymentChannel": "stripe"}
+[INFO]2023.05.04 10:15:39 : 接口请求参数>>>>>>>>>>{"storeId": [], "toCurrency": "SGD", "paymentChannel": "stripe"}
+[INFO]2023.05.04 10:15:42 : 接口请求参数>>>>>>>>>>{"toCurrency": "SGD", "paymentChannel": "stripe"}
+[INFO]2023.05.04 10:15:43 : 接口返回参数>>>>>>>>>>{'code': 'ERR_BAD_REQUEST', 'msg': 'Request failed with status code 400', 'data': {}}
+[INFO]2023.05.04 10:15:43 : 接口请求参数>>>>>>>>>>{"toCurrency": "SGD"}
+[INFO]2023.05.04 10:15:44 : 接口返回参数>>>>>>>>>>{'code': 'ERR_BAD_REQUEST', 'msg': 'Request failed with status code 400', 'data': {}}
+[INFO]2023.05.04 10:15:44 : 接口请求参数>>>>>>>>>>{"toCurrency": "SGD", "paymentChannel": []}
+[INFO]2023.05.04 10:15:46 : 接口返回参数>>>>>>>>>>{'code': 'ERR_BAD_REQUEST', 'msg': 'Request failed with status code 400', 'data': {}}
+[INFO]2023.05.04 10:15:46 : 接口请求参数>>>>>>>>>>{"toCurrency": "SGD", "paymentChannel": 123}
+[INFO]2023.05.04 10:15:47 : 接口返回参数>>>>>>>>>>{'code': 'ERR_BAD_REQUEST', 'msg': 'Request failed with status code 400', 'data': {}}
+[INFO]2023.05.04 10:15:47 : 接口请求参数>>>>>>>>>>{"toCurrency": "SGD", "paymentChannel": "stripe"}
+[INFO]2023.05.04 10:15:48 : 接口返回参数>>>>>>>>>>{'code': 'ERR_BAD_REQUEST', 'msg': 'Request failed with status code 400', 'data': {}}
+[INFO]2023.05.04 10:15:48 : 接口请求参数>>>>>>>>>>{"paymentChannel": "stripe"}
+[INFO]2023.05.04 10:15:49 : 接口返回参数>>>>>>>>>>{'code': 'ERR_BAD_REQUEST', 'msg': 'Request failed with status code 400', 'data': {}}
+[INFO]2023.05.04 10:15:49 : 接口请求参数>>>>>>>>>>{"paymentChannel": "stripe", "toCurrency": 123}
+[INFO]2023.05.04 10:15:50 : 接口返回参数>>>>>>>>>>{'code': 'ERR_BAD_REQUEST', 'msg': 'Request failed with status code 400', 'data': {}}
+[INFO]2023.05.04 10:15:50 : 接口请求参数>>>>>>>>>>{"paymentChannel": "stripe", "toCurrency": []}
+[INFO]2023.05.04 10:15:52 : 接口返回参数>>>>>>>>>>{'code': 'ERR_BAD_REQUEST', 'msg': 'Request failed with status code 400', 'data': {}}

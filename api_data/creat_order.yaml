@@ -1,0 +1,12 @@
+test_request_params:
+  storeId:
+    - - {key: 123,code: "ERR_BAD_REQUEST"}
+    - - {key: [],code: "ERR_BAD_REQUEST"}
+
+  paymentChannel:
+    - - { key: 123,code: "ERR_BAD_REQUEST" }
+    - - { key: [],code: "ERR_BAD_REQUEST" }
+
+  customerEmail:
+     - - { key: "xx@xx.xx",code: 0 }
+     - - { key: 123,code: "ERR_BAD_REQUEST" }

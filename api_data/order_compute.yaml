@@ -1,0 +1,13 @@
+test_request_params:
+  storeId:
+    - - {key: 123,code: "ERR_BAD_REQUEST"}
+    - - {key: [],code: "ERR_BAD_REQUEST"}
+
+  toCurrency:
+    - - { key: 123,code: "ERR_BAD_REQUEST" }
+    - - { key: [],code: "ERR_BAD_REQUEST" }
+
+  paymentChannel:
+     - - { key: [],code: "ERR_BAD_REQUEST"  }
+     - - { key: 123,code: "ERR_BAD_REQUEST" }
+     - - { key: "stripe",code: 0 }
